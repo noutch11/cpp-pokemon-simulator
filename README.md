@@ -3,7 +3,7 @@
 A robust, text-based monster-collection and battle engine built to demonstrate core **Object-Oriented Programming (OOP)** principles, efficient **Data Structure** management, and **File I/O** in C++.
 
 ## Key Features
-* **Dynamic Team Management:** Implemented logic to manage a 4-Pokemon team, including automated systems to evaluate and replace members based on Combat Power stats.
+* **Dynamic Team Management:** Implemented logic to manage a 4-Pokemon team, including automated systems to evaluate and replace members based on Combat Power (CP) stats.
 * **Procedural Content Generation:** Utilized probability-based searching to encounter "Common," "Uncommon," and "Ultra Rare" entities from a master list of 151 unique creatures.
 * **Persistent Data Loading:** Engineered a file-parsing engine to load entity data from external text files into internal master arrays.
 * **State-Based Gameplay:** Comprehensive main menu system allowing users to search, train, display stats, and battle against randomized opponents.
