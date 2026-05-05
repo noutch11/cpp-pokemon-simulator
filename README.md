@@ -19,3 +19,7 @@ A robust, text-based monster-collection and battle engine built to demonstrate c
 * **`Game.h / .cpp`**: The primary engine managing game states, file parsing, and team logic.
 * **`proj2.cpp`**: The entry point provided to seed the random number generator and initialize the core game loop.
 * **`makefile`**: Automated build script with `clean`, `run`, and `submit` targets.
+  
+***
+
+**Note:** This project was developed as part of the **CMSC 202: Computer Science II** curriculum at **UMBC**. While the core engine and data structures were independently developed, the initial project architecture and data files were provided as part of the coursework.
