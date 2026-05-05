@@ -18,7 +18,6 @@ A robust, text-based monster-collection and battle engine built to demonstrate c
 * **`Pokemon.h / .cpp`**: Defines the core entity, its attributes, and growth logic.
 * **`Game.h / .cpp`**: The primary engine managing game states, file parsing, and team logic.
 * **`proj2.cpp`**: The entry point provided to seed the random number generator and initialize the core game loop.
-* **`makefile`**: Automated build script with `clean`, `run`, and `submit` targets.
   
 ***
 
